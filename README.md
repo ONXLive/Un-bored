@@ -1,5 +1,6 @@
 # [Un-bored](https://ub.onyxcode.space)
 Find a random thing to do!
+
 [![Build Status](https://travis-ci.com/ONXLive/Un-bored.svg?branch=master)](https://travis-ci.com/ONXLive/Un-bored)
 
 ## Contributing
