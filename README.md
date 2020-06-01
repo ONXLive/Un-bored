@@ -1,4 +1,4 @@
-# [Visit new location](https://helpr.js/un-bored)
+# [Visit new location](https://helprjs.github.io/un-bored)
 
 ### Original description:
 
