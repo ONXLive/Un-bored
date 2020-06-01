@@ -1,3 +1,7 @@
+# [Visit new location](https://helpr.js/un-bored)
+
+### Original description:
+
 # [Un-bored](https://ub.onyxcode.space)
 Find a random thing to do!
 
